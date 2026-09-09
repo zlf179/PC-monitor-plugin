@@ -44,3 +44,8 @@ NuGet 依赖：LibreHardwareMonitorLib 0.9.*（自动还原）
 | Sensors.cs | LHM 传感器采集（CPU/GPU/内存） |
 | ForegroundApp.cs | 前台进程监测（场景判定 + 浏览器时长统计） |
 | MediaControl.cs | SMTC 媒体会话控制 |
+
+
+
+<img width="460" height="835" alt="image" src="https://github.com/user-attachments/assets/3e19eeee-c129-4b18-bc29-a21f74df08ab" />
+
